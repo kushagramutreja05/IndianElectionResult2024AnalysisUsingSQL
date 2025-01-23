@@ -1,0 +1,212 @@
+[
+    {
+        "Party": "Aam Aadmi Party - AAAP",
+        "Won": "3",
+        "Party ID": "1"
+    },
+    {
+        "Party": "All India Trinamool Congress - AITC",
+        "Won": "29",
+        "Party ID": "140"
+    },
+    {
+        "Party": "Communist Party of India  (Marxist) - CPI(M)",
+        "Won": "4",
+        "Party ID": "547"
+    },
+    {
+        "Party": "Communist Party of India  (Marxist-Leninist)  (Liberation) - CPI(ML)(L)",
+        "Won": "2",
+        "Party ID": "545"
+    },
+    {
+        "Party": "Communist Party of India - CPI",
+        "Won": "2",
+        "Party ID": "544"
+    },
+    {
+        "Party": "Dravida Munnetra Kazhagam - DMK",
+        "Won": "22",
+        "Party ID": "582"
+    },
+    {
+        "Party": "Indian National Congress - INC",
+        "Won": "99",
+        "Party ID": "742"
+    },
+    {
+        "Party": "Indian Union Muslim League - IUML",
+        "Won": "3",
+        "Party ID": "772"
+    },
+    {
+        "Party": "Jammu & Kashmir National Conference - JKN",
+        "Won": "2",
+        "Party ID": "834"
+    },
+    {
+        "Party": "Jharkhand Mukti Morcha - JMM",
+        "Won": "3",
+        "Party ID": "852"
+    },
+    {
+        "Party": "Kerala Congress - KEC",
+        "Won": "1",
+        "Party ID": "911"
+    },
+    {
+        "Party": "Marumalarchi Dravida Munnetra Kazhagam - MDMK",
+        "Won": "1",
+        "Party ID": "1046"
+    },
+    {
+        "Party": "Nationalist Congress Party Sharadchandra Pawar - NCPSP",
+        "Won": "8",
+        "Party ID": "3620"
+    },
+    {
+        "Party": "Rashtriya Janata Dal - RJD",
+        "Won": "4",
+        "Party ID": "1420"
+    },
+    {
+        "Party": "Rashtriya Loktantrik Party - RLTP",
+        "Won": "1",
+        "Party ID": "2484"
+    },
+    {
+        "Party": "Revolutionary Socialist Party - RSP",
+        "Won": "1",
+        "Party ID": "1534"
+    },
+    {
+        "Party": "Samajwadi Party - SP",
+        "Won": "37",
+        "Party ID": "1680"
+    },
+    {
+        "Party": "Shiv Sena (Uddhav Balasaheb Thackrey) - SHSUBT",
+        "Won": "9",
+        "Party ID": "3369"
+    },
+    {
+        "Party": "Viduthalai Chiruthaigal Katchi - VCK",
+        "Won": "2",
+        "Party ID": "1847"
+    },
+    {
+        "Party": "Aazad Samaj Party (Kanshi Ram) - ASPKR",
+        "Won": "1",
+        "Party ID": "2989"
+    },
+    {
+        "Party": "AJSU Party - AJSUP",
+        "Won": "1",
+        "Party ID": "160"
+    },
+    {
+        "Party": "All India Majlis-E-Ittehadul Muslimeen - AIMIM",
+        "Won": "1",
+        "Party ID": "118"
+    },
+    {
+        "Party": "Apna Dal (Soneylal) - ADAL",
+        "Won": "1",
+        "Party ID": "2070"
+    },
+    {
+        "Party": "Asom Gana Parishad - AGP",
+        "Won": "1",
+        "Party ID": "83"
+    },
+    {
+        "Party": "Bharat Adivasi Party - BHRTADVSIP",
+        "Won": "1",
+        "Party ID": "3482"
+    },
+    {
+        "Party": "Bharatiya Janata Party - BJP",
+        "Won": "240",
+        "Party ID": "369"
+    },
+    {
+        "Party": "Hindustani Awam Morcha (Secular) - HAMS",
+        "Won": "1",
+        "Party ID": "664"
+    },
+    {
+        "Party": "Independent - IND",
+        "Won": "7",
+        "Party ID": "743"
+    },
+    {
+        "Party": "Janasena Party - JnP",
+        "Won": "2",
+        "Party ID": "860"
+    },
+    {
+        "Party": "Janata Dal  (Secular) - JD(S)",
+        "Won": "2",
+        "Party ID": "804"
+    },
+    {
+        "Party": "Janata Dal  (United) - JD(U)",
+        "Won": "12",
+        "Party ID": "805"
+    },
+    {
+        "Party": "Lok Janshakti Party(Ram Vilas) - LJPRV",
+        "Won": "5",
+        "Party ID": "3165"
+    },
+    {
+        "Party": "Nationalist Congress Party - NCP",
+        "Won": "1",
+        "Party ID": "1142"
+    },
+    {
+        "Party": "Rashtriya Lok Dal - RLD",
+        "Won": "2",
+        "Party ID": "1458"
+    },
+    {
+        "Party": "Shiromani Akali Dal - SAD",
+        "Won": "1",
+        "Party ID": "1584"
+    },
+    {
+        "Party": "Shiv Sena - SHS",
+        "Won": "7",
+        "Party ID": "3529"
+    },
+    {
+        "Party": "Sikkim Krantikari Morcha - SKM",
+        "Won": "1",
+        "Party ID": "1658"
+    },
+    {
+        "Party": "Telugu Desam - TDP",
+        "Won": "16",
+        "Party ID": "1745"
+    },
+    {
+        "Party": "United People’s Party, Liberal - UPPL",
+        "Won": "1",
+        "Party ID": "1998"
+    },
+    {
+        "Party": "Voice of the People Party - VOTPP",
+        "Won": "1",
+        "Party ID": "3388"
+    },
+    {
+        "Party": "Yuvajana Sramika Rythu Congress Party - YSRCP",
+        "Won": "4",
+        "Party ID": "1888"
+    },
+    {
+        "Party": "Zoram People’s Movement - ZPM",
+        "Won": "1",
+        "Party ID": "2757"
+    }
+]
