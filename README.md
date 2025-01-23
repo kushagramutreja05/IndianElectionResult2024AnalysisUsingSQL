@@ -46,7 +46,7 @@ Database Schema
 <img width="1098" alt="Screenshot 2025-01-23 at 3 07 14 PM" src="https://github.com/user-attachments/assets/d78747b3-b651-42d6-8498-03bb67ce6952" />
 
 
-The SQL Queries to the above problems can be found at sqlqueries.docx
+The SQL Queries to the above problems is available at SQLQueries.pdf.
 
 Tools & Technologies Used
 	•	Database Management System (DBMS): MySQL / PostgreSQL / SQLite
